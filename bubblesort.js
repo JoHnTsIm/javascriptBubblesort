@@ -9,7 +9,7 @@ function swapElements(arr, i1, i2) {
 // ----------------------------------
 
 // number array, letter, word array
-let numArray = [9,5,1,3,4,7,6,8,2,10]
+let numArray = [9, 5, 1, 3, 4, 7, 6, 8, 2, 10]
 let letterArray = ['c', 'd', 'a', 'b', 'j', 'i', 'e', 'f', 'g', 'h']
 let wordArray = ['cat', 'door', 'age', 'bird', 'jacket', 'ice', 'earth', 'farm', 'game', 'house']
 
